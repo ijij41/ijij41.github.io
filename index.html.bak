@@ -52,7 +52,7 @@
 	</div>
       </section>
       
-	    <section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in" id="first">
+	    <section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in">
 	<div class="content">
 	  <h2></h2>
 	 <p>박종식, 김경희의 장녀 자람</p>
@@ -62,6 +62,31 @@
 	  <img src="images/final/IMG_0067.jpg" alt="" />
 	</div>
       </section>
+
+
+      <section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in">
+		<div class="content">
+		  <h2></h2>
+		  <p>오랜 기다림 속에서 저희 두 사람,<br>
+			<br>
+			<p>
+		</div>
+		<div class="image">
+		  <img src="images/final/IMG_0044.jpg" alt="" />
+		</div>
+     </section>
+	 <section class="spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in">
+		<div class="content">
+		  <h2></h2>
+		  <p>오랜 기다림 속에서 저희 두 사람,<br>
+			<br>
+			<p>
+		</div>
+		<div class="image">
+		  <img src="images/final/IMG_0193.jpg" alt="" />
+		</div>
+     </section>
+
 
       
       <!-- Four -->
@@ -274,7 +299,7 @@
 		<div class="inner medium" align=center>
 			<h3>예식장 찾아오시는 길</h3>
 			<p>서울서초구 강남대로 27 더포레 웨딩홀 (02-6300-2300)</p>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3166.6767485537775!2d127.03682785163544!3d37.46835347971742!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca12cd8a2233f%3A0x9f59269319c317d3!2z7JeQ7J207Yuw7IS87YSwKEFU7IS87YSwKQ!5e0!3m2!1sko!2skr!4v1500904879912" width="400" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3166.6767485537775!2d127.03682785163544!3d37.46835347971742!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca12cd8a2233f%3A0x9f59269319c317d3!2z7JeQ7J207Yuw7IS87YSwKEFU7IS87YSwKQ!5e0!3m2!1sko!2skr!4v1500904879912" width="auto" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 		</div>
       </section>
