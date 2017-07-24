@@ -31,13 +31,11 @@
       <section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in" id="first">
 	<div class="content">
 	  <h2></h2>
-	  <p>저희 두 사람이 사랑과 믿음으로<br>
-	    한 가정을 이루게 되었습니다.<br>
-	    언제나 서로를 소중히 하고<br>
-	    주위에 사랑을 나누며 살 수 있도록<br>
-	    따뜻한 마음으로 축복해주시면 감사하겠습니다. </p>
+	  <p>오랜 기다림 속에서 저희 두 사람,<br>
+		한 마음되어 참된 사랑의 결실을 맺게 되었습니다.<br>
+	    오셔서 축복해 주시면 큰 기쁨이겠습니다.<p>
 	</div>
-	<div class="image">
+	<div class="image" style="height: auto">
 	  <img src="images/final/IMG_0086.jpg" alt="" />
 	</div>
       </section>
@@ -49,7 +47,7 @@
 	  <p>이세재, 문윤선의 장남 정훈</p>
 
 	</div>
-	<div class="image">
+	<div class="image" style="height: 500px">
 	  <img src="images/final/IMG_0081.jpg" alt="" />
 	</div>
       </section>
@@ -60,8 +58,8 @@
 	 <p>박종식, 김경희의 장녀 자람</p>
 	    
 	</div>
-	<div class="image">
-	  <img src="images/img_hanbok.jpg" alt="" />
+	<div class="image" style="height: 500px">
+	  <img src="images/final/IMG_0067.jpg" alt="" />
 	</div>
       </section>
 
