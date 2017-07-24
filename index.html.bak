@@ -23,7 +23,7 @@
 	  </ul>
 	</div>
 	<div class="image">
-	  <img src="images/IMG_0127.jpg" alt="" />
+	  <img src="images/final/IMG_0242.jpg" alt="" />
 	</div>
       </section>
       
@@ -288,6 +288,7 @@
 					"mapHeight": "300"
 				}).render();
 			</script>
+
 		</div>
       </section>
       
